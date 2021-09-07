@@ -1,0 +1,71 @@
+Mode Settings:
+
+The global score is set to: 25
+  Kick score: 5
+  Ban score: 10
+
+Punishment type: Clear Roles
+
+Anti Nuke Settings:
+  Ban limit: 2
+  Kick limit: 5
+
+Ban & Kick punishment type: Ban
+
+Logs:
+  @User-1 banned a random member. +10 score
+  @User-2 kicked a random member. +5 score
+  @User-1 banned another random member. +10 score
+  @Security banned @User-1 as he has reached the ban limit.
+  The beast woke up as the server has reached the global score.
+  @User-2 banned a random member.
+  This for the limit
+
+What actions does the Bot consider as dangerous?
+Adding bots.
+
+Pruning members. Free
+
+Banning members.
+
+Kicking members.
+
+Creating and deleting roles.
+
+Creating and deleting channels.
+
+Granting dangerous permissions to a role.
+
+Giving a dangerous role to a member.
+
+Mass mentioning @here and/or @everyone.
+
+Creating webhooks.
+
+Changing the vanity code.
+Join Raid
+Bot will monitor ALL members joining your server. And it will also track all the invites in your server and which are being used. If an abnormal join behaviour is displayed, Wick will instantly punish everyone involved and will try to delete the invite links acting as a gateway to these raiders.
+ Target
+You can let it monitor all joins or just those related to accounts  finds suspicious!
+ Invites Monitoring
+ keeps track of each and every invite used by members joining your server. If Wick is suspecting a raid, it will eliminate the invite link acting as a gateway to these raid accounts!
+Auto Mod
+uses a special heat algorithm that will help you fight spammers without harming your regular members. It will silence any member trying to disturb your channels by spamming messages, spamming @mentions or sending Invite Links and a lot more!
+ Anti Spam
+All types of spamming are monitored: Mentions spam, Regular message spam, repetitive message spam, emojis spam, walls of text spam, images/embeds spam and more
+ Anti Advertisement
+You can make  punish members posting discord server invites of others servers! !
+ Anti NSFW Websites
+ has a large collection of regularly-updated NSFW websites. You can make Wick punish members posting NSFW links in non-NSFW channels!
+ Malicious Websites Prevention
+Wick is very good at detecting Phishing links, IP-Grabbers and even some shortners.
+Join Gate
+New Accounts
+You can make deal with new accounts if you want. You get to decide how old an account should be in order to access your server
+ Accounts without Avatars
+You can filter out accounts that have no profile pictures set since they are mostly malicious.
+ Bot Additions
+You can only allow few people to be able to add bots, any bot added by someone unauthorized will be dealt with automatically to ensure safety!
+ Unverified Bot Additions
+You can always block bots that are unverified by Discord since they can be malicious.
+Log like this https://media.discordapp.net/attachments/871896108807364608/883182069482684506/IMG_20210903_044933.jpg
